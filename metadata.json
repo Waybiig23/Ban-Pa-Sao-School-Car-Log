@@ -1,0 +1,7 @@
+{
+  "name": "Ban Pa Sao School Car Log",
+  "description": "ระบบบันทึกการใช้รถโรงเรียนบ้านป่าเสร้า (Ban Pa Sao School Car Usage Log System) - Records travel, fuel, and maintenance data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
